@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Vitor Francisco!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frevisto&layout=compact&theme=radical)
+
 
 <!--
 **frevisto/frevisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
